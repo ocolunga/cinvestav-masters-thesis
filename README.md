@@ -1,4 +1,4 @@
-# Master's Thesis 
+# Master's Thesis
 
 Thesis for the Master of Science in Physical and Biomedical Engineering at the Center of Research and Advanced Studies of the National Polytechnic Institute (CINVESTAV) in Monterrey, NL, Mexico.
 
@@ -8,19 +8,24 @@ Thesis for the Master of Science in Physical and Biomedical Engineering at the C
 
 ## About
 
-This repository contains the latex source code of my master's thesis document along with the results obtained and the final document in pdf format. 
+This repository contains the LaTeX source code of my master's thesis, the results obtained, and the compiled document in PDF format.
 
-My master's project was developed at the [Center of Research and Advanced Studies of the National Polytechnic Institute](https://monterrey.cinvestav.mx/) (CINVESTAV) in Monterrey, NL, Mexico. 
+Two versions of the thesis are available:
+
+- **[colunga-2024-bscr-error-analysis.pdf](colunga-2024-bscr-error-analysis.pdf)** — Public version. Updated with fixed errata and style corrections. This is the recommended version for reading and citation.
+- **[colunga-2024-bscr-error-analysis-approved.pdf](colunga-2024-bscr-error-analysis-approved.pdf)** — The original document as submitted and approved by the institution. Preserved unmodified as the official academic record.
+
+My master's project was developed at the [Center of Research and Advanced Studies of the National Polytechnic Institute](https://monterrey.cinvestav.mx/) (CINVESTAV) in Monterrey, NL, Mexico.
 The thesis was developed under the supervision of [Dr. Dania Gutiérrez Ruiz](https://dgtz.info/) at the [Biomedical Signal Processing Laboratory](https://dgtz.info/laboratorio/).
 
 The document is written in Spanish.
 
 ## Abstract
 
-This thesis investigates the impact of reported variation in the conductivity of tissues that compose the head on the localization of sources of neuronal activity, particularly the brain-skull-conductivity-ratio (BSCR). 
+This thesis investigates the impact of reported variation in the conductivity of tissues that compose the head on the localization of sources of neuronal activity, particularly the brain-skull-conductivity-ratio (BSCR).
 The study focuses on the direct and inverse problems of electroencephalography (EEG) and performs a statistical analysis of the error incurred using different nominal BSCR values.
 This thesis proposes the use of the Cramér-Rao bound (CRB) as the parameter of analysis. This is possible because the error induced by the uncertainty in the BSCR values asymptotically approaches the CRB.
-The methodology includes simulations of neuronal activity using a realistic geometric model and the boundary element method (BEM), performed with different BSCR values and levels of signal-to-noise ratio (SNR). 
+The methodology includes simulations of neuronal activity using a realistic geometric model and the boundary element method (BEM), performed with different BSCR values and levels of signal-to-noise ratio (SNR).
 The results highlight the impact of conductivity variations on the accuracy of source localization, providing information to improve EEG-based diagnostic and research tools.
 
 ## Resumen
