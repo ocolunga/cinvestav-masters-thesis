@@ -6,6 +6,8 @@ Thesis for the Master of Science in Physical and Biomedical Engineering at the C
 
 ### Análisis de los Errores Incurridos en la Localización de Fuentes de Actividad Neuronal al Usar Diversos Valores Nominales de Conductividad Cerebral
 
+### Analysis of Errors Incurred in the Localization of Sources of Neuronal Activity When Using Various Nominal Values of Brain Conductivity
+
 ## About
 
 This repository contains the LaTeX source code of my master's thesis, the results obtained, and the compiled document in PDF format.

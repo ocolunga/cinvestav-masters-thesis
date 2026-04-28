@@ -261,7 +261,7 @@ El proceso del problema directo se puede visualizar en la \cref{fig:methodology:
 Dado que nuestra meta es estimar el error asociado con la resolución del problema inverso utilizando diferentes valores del BSCR en varias áreas de la corteza cerebral, implementamos la solución de la siguiente manera: emparejamos las 100 mediciones de EEG resultantes de cada BSCR (1,000 en total) con cada una de las 10 matrices de ganancia de los diferentes BSCR a probar, lo que resulta en 10,000 combinaciones distintas para un solo dipolo y nivel de ruido.
 Teniendo 3 niveles de ruido y 3 dipolos diferentes, se obtiene un total de 90,000 combinaciones distintas y, por ende, el mismo número de implementaciones del problema inverso a resolver, como se muestra en la \cref{fig:methodology:inverse_pipeline}.
 
-\begin{figure}[tb]
+\begin{figure}[b]
 	\centering
 	\begin{tikzpicture}[node distance = 3.5cm, auto]
 		% Define block styles
